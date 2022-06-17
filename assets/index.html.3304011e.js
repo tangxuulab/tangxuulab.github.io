@@ -1,0 +1,1 @@
+import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as a,b as e,d as r}from"./app.e2020b6a.js";const d={},o=e("h1",{id:"sfsdf",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sfsdf","aria-hidden":"true"},"#"),r(" sfsdf")],-1),c=[o];function n(_,f){return t(),a("div",null,c)}var l=s(d,[["render",n],["__file","index.html.vue"]]);export{l as default};
